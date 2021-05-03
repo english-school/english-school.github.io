@@ -1,0 +1,27 @@
+@media screen and (max-width: 576px) {
+  .h-img {
+    background-image: url(img/coffee-2319107_640のコピー.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 650px;
+    position: relative;
+  }
+  .cafe-img {
+    background: #000;
+  }
+  
+  .cafe-img2 {
+    display: block;
+    opacity: .7;
+    height: 130px;
+  }
+
+  .container {
+    width: 90%;
+  }
+
+  .cafe-text {
+    font-size: 22px;
+  }
+}
